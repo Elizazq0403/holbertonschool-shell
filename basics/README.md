@@ -1,0 +1,1 @@
+pwd imprima el nombre de la ruta absoluta del directorio de trabajo actuale
